@@ -17,6 +17,7 @@ namespace Tyuiu.MolodykhVY.Sprint6.Task3.V20
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
         }
     }
 }
