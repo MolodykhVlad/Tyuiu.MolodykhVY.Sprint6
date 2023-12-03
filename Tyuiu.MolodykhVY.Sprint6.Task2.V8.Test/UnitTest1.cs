@@ -9,6 +9,8 @@ namespace Tyuiu.MolodykhVY.Sprint6.Task2.V8.Test
         [TestMethod]
         public void TestMethod1()
         {
+
+
         }
     }
 }

@@ -12,6 +12,7 @@ namespace Tyuiu.MolodykhVY.Sprint6.Task2.V8.Lib
         public double[] GetMassFunction(int startValue, int stopValue)
         {
             throw new NotImplementedException();
+
         }
     }
 }
